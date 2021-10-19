@@ -1,0 +1,21 @@
+body{
+  background-color: grey;
+}
+
+p {
+  font-size: 40px;
+}
+
+ul {
+  font-size: 20px;
+  color: cyan;  
+}
+
+li {
+  list-style-type: none;
+}
+
+.special {
+  color: orange;
+  font-weight: bold;
+}
