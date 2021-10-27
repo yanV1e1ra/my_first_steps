@@ -21,7 +21,8 @@
     border: inset;
     border-width: 6px;
     width: 200px;
-    height: 50px;
+    height: auto;
+    text-align: center;
     border-color:brown; 
     border-radius: 30px;
 }
