@@ -1,5 +1,6 @@
 main{
     color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -47,20 +48,9 @@ footer{
     line-height: 20px;
 }
 
-h1,
-h4,
-li,
-p{
-    font-family: 'Courier New', Courier, monospace;
-}
-
 a{
     color: royalblue;
     text-decoration: none;
-}
-
-a:visited{
-    color: tomato;
 }
 
 progress::-webkit-progress-value { background: rgba(100, 0, 146, 0.788); }
